@@ -1,0 +1,5 @@
+default['beerapp']['db_user'] = 'beer'
+default['beerapp']['db_name'] = 'beerapp'
+default['beerapp']['db_pass'] = 'beer'
+default['beerapp']['server_name'] = 'beerapp.com'
+default['beerapp']['schema_file'] = '/home/beerapp/sql/beerapp_schema.sql'

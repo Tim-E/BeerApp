@@ -1,3 +1,17 @@
+== Requirements ==
+
+Beer rating app
+
+I can view all beers
+I can view one beer
+I can add a beer
+I can search for beer
+I can rate a beer
+I can see average ratings for beer
+I can upload a picture of beer
+
+======================================
+
 Create a project in GitHub
 
 Set up the project locally
@@ -21,3 +35,11 @@ Connect to node from angular
 Build responsive ui
 
 Deploy to AWS
+
+
+== dependancies ==
+
+http://community.opscode.com/
+
+Mysql
+Node js
