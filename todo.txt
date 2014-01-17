@@ -1,0 +1,23 @@
+Create a project in GitHub
+
+Set up the project locally
+
+Create a vagrant development 
+machine
+
+Install chef recipes with all 
+dependencies
+
+Create a MySQL database
+
+Use Yeoman to create an angular JS project with a node back end
+
+Write tests first
+
+Connect to MySQL from node
+
+Connect to node from angular
+
+Build responsive ui
+
+Deploy to AWS
